@@ -25,7 +25,14 @@ We need to install fire and questionary and then import its library.
 
 ## Usage
 
-To use the loan qualifier application simply clone the repository and run the **app.py**
+To use the loan qualifier application simply clone the repository and run the **app.py** with:
+ ```python
+python app.py
+```
+You will see a prompt like below that is asking for the path of your initial bank data.
+
+![Loan Qualifier Prompts](Images/firstPrompt.JPG)
+![Loan Qualifier Prompts](Images/path.png)
 
 ---
 
